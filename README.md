@@ -5,5 +5,5 @@
 Para rodar o projeto em sua máquina por favor digite:
 
 ```
-npn intalll react 
+imprimindo algo na tela com console 
 ```
